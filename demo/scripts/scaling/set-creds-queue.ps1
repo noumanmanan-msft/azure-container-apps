@@ -1,0 +1,1 @@
+$env:AZURE_STORAGE_CONNECTION_STRING = 'DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=;AccountKey='
